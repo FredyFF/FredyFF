@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Skills Tools: 
 
-[![Pyversions](https://www.python.org/static/img/python-logo@2x.png)
+
