@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine Learning and Data Scientist deeper
 - 💞️ I’m looking to collaborate on Anything about Data
 - 📫 How to reach me, please contact me on fredyfirmansyah107@gmail.com
+- ✈️ My Blog on https://fredyfirmansyah107.wordpress.com/
 - 😄 Pronouns: Fredy F
 - ⚡ Fun fact: i love coffe alot
 
