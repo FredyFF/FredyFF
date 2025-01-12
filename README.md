@@ -16,4 +16,9 @@ You can click the Preview link to take a look at your changes.
 - Data Looker
 - Microsoft Excel
 
+### Programing Skill: 
+- Python
+- Java
+- SQL
+
 
