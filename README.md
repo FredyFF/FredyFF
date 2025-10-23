@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FredyFF
 - 👀 I’m interested in Analysis data, Mining Data and Exploration of Data
-- 🌱 I’m currently learning Machine Learning and Data Scientist deeper
+- 🌱 I’m currently learning Machine Learning and Data Scientist 
 - 💞️ I’m looking to collaborate on Anything about Data
 - 📫 How to reach me, please contact me on fredyfirmansyah107@gmail.com
 
